@@ -1,1 +1,1 @@
-from database import DatabaseCommand
+from .database import DatabaseCommand
